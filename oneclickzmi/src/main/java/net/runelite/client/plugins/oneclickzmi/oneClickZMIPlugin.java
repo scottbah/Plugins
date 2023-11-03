@@ -237,7 +237,6 @@ public class oneClickZMIPlugin extends Plugin
 				if (!craftedRunes)
 				{
 					event.setMenuEntry(getAltarMES());
-					timeout +=1;
 					return;
 				}
 				craftedRunes = false;
@@ -250,7 +249,6 @@ public class oneClickZMIPlugin extends Plugin
 				if (!craftedRunes)
 				{
 					event.setMenuEntry(getAltarMES());
-					timeout +=1;
 					return;
 				}
 				craftedRunes = false;
@@ -263,7 +261,6 @@ public class oneClickZMIPlugin extends Plugin
 				if (!craftedRunes)
 				{
 					event.setMenuEntry(getAltarMES());
-					timeout +=1;
 					return;
 				}
 				craftedRunes = false;
@@ -276,7 +273,6 @@ public class oneClickZMIPlugin extends Plugin
 				if (!craftedRunes)
 				{
 					event.setMenuEntry(getAltarMES());
-					timeout +=1;
 					return;
 				}
 				craftedRunes = false;
