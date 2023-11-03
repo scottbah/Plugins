@@ -27,7 +27,7 @@ import java.util.List;
 
 @Extension
 @PluginDescriptor(
-		name = "One Click ZMI Runecrafting",
+		name = "One Click ZMI Runecrafting - Updated",
 		description = "Computer aided gaming. Set bank withdraw Quantity to 1 and make sure to have 1 dose stams, food in the bank, runes for npc contact and ourania teleport and bank setup correctly with fillers. Must also be in the main bank tab. Doesn't support small pouch or large pouch on it's own. credit TP",
 		tags = {"zmi,one click,ourania,rc"},
 		enabledByDefault = false

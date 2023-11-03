@@ -27,7 +27,7 @@ import ProjectVersions.openosrsVersion
 
 version = "2.2.6"
 
-project.extra["PluginName"] = "One Click ZMI Runecrafting" // This is the name that is used in the external plugin manager panel
+project.extra["PluginName"] = "One Click ZMI Runecrafting - Updated" // This is the name that is used in the external plugin manager panel
 project.extra["PluginDescription"] = "One Click ZMI Runecrafting" // This is the description that is used in the external plugin manager panel
 
 dependencies {
